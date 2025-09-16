@@ -18,7 +18,21 @@ I'm a passionate software engineer with 9 years of professional experience speci
 - **Messaging:** Kafka, RabbitMQ
 - **Big Data:** Hadoop HDFS, Hive, Flume, JStorm, Sqoop
 
+#### **AI & LLM Integration**
+- **AI Frameworks:** LangChain, LlamaIndex, Semantic Kernel
+- **LLM Models:** OpenAI GPT-4, Claude, Gemini, Llama 3, Mistral
+- **Vector Databases:** Pinecone, Weaviate, Qdrant, ChromaDB
+- **Agent Development:** Multi-agent systems, RAG (Retrieval-Augmented Generation), Tool calling
+- **Embedding Models:** OpenAI Embeddings, Sentence Transformers, BGE
+
 ### 🎯 Professional Highlights
+
+#### **AI Agent Development & LLM Integration** *(Current Focus)*
+- 🤖 Building intelligent AI agents using LangChain for automated workflow orchestration
+- 🧠 Implementing RAG systems with vector databases for enhanced context retrieval
+- 🔗 Developing multi-agent architectures for complex problem-solving scenarios
+- 📚 Integrating various LLM models (GPT-4, Claude, Llama) for optimal task performance
+- ⚙️ Creating custom tools and function calling interfaces for LLM agents
 
 #### **Cheetah Mobile (Joyme) - Fullstack Developer** *(2020-2024)*
 - 🔧 Led development of LiveMe risk control platform using Golang, Kafka, and Elasticsearch
@@ -33,18 +47,25 @@ I'm a passionate software engineer with 9 years of professional experience speci
 - 🔄 Led loan fund management redesign, streamlining third-party integrations
 
 ### 🎓 Education
-**Bachelor of Science in Computer Science and Technology**
-Beijing Jiaotong University (2024)
+- **Master of Information Technology** - Monash University
+- **Bachelor of Science in Computer Science and Technology** - Beijing Jiaotong University
 
 ### 🌍 About Me
 - 📍 Based in Melbourne, Australia
 - 🎂 Born in 1998
-- 🗣️ English proficiency: IELTS 6.5
-- 💡 Passionate about performance optimization and distributed systems
+- 🗣️ Languages: Mandarin, English
+- 💡 Passionate about performance optimization, distributed systems, and AI-powered automation
+- 🔬 Actively exploring LLM applications and intelligent agent development
 
 ### 📫 Get in Touch
 [![GitHub](https://img.shields.io/badge/GitHub-EricZhengH-181717?style=flat&logo=github)](https://github.com/EricZhengH)
 
+### 🚧 Current Projects
+- 🤖 **AI Agent Framework**: Developing a modular LangChain-based framework for enterprise automation
+- 🔍 **RAG Pipeline**: Building production-ready RAG systems with hybrid search capabilities
+- 🧩 **LLM Gateway**: Creating a unified API gateway for multiple LLM providers with intelligent routing
+- 🎯 **Trading Agent Orchestrator**: Designing multi-agent systems for automated trading platform operations
+
 ---
 
-*Building scalable solutions, one line of code at a time* ✨
+*Building scalable solutions and intelligent agents, one line of code at a time* ✨
