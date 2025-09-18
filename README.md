@@ -20,7 +20,7 @@ I'm a passionate software engineer with 9 years of professional experience speci
 
 #### **AI & LLM Integration**
 - **AI Frameworks:** LangChain, LlamaIndex, Semantic Kernel
-- **LLM Models:** OpenAI GPT-4, Claude, Gemini, Llama 3, Mistral
+- **LLM Models:** OpenAI GPT-5, Claude, Gemini, Llama 3, Mistral
 - **Vector Databases:** Pinecone, Weaviate, Qdrant, ChromaDB
 - **Agent Development:** Multi-agent systems, RAG (Retrieval-Augmented Generation), Tool calling
 - **Embedding Models:** OpenAI Embeddings, Sentence Transformers, BGE
