@@ -1,71 +1,58 @@
-# Hi there 👋 I'm Hang (Eric) Zheng
+# Hi, I'm Hang (Eric) Zheng
 
-## 🚀 Senior Fullstack Developer | Melbourne, Australia
+**Senior Full-Stack Engineer | AI/LLM Systems**  
+Melbourne, Australia
 
-I'm a passionate software engineer with 9 years of professional experience specializing in building high-performance distributed systems and scalable microservices architectures.
+I build AI-powered products, multi-agent research systems, and high-concurrency backend platforms. My recent work focuses on LLM orchestration, RAG, tool calling, trading research workflows, and production-grade full-stack infrastructure.
 
-### 💻 Tech Stack
+## Focus
 
-#### **Core Expertise**
-- **Languages:** Java, Golang
-- **Architecture:** High-concurrency Distributed Systems, Microservices
-- **Frameworks:** Spring, Spring Boot, Gin, Echo, Beego, Netty
-- **Databases:** MySQL (Index Optimization & Transactions), Redis, MongoDB, ElasticSearch, AWS Redshift
+- AI/LLM systems: multi-agent orchestration, consensus validation, RAG, tool calling, prompt engineering.
+- Full-stack product engineering: Next.js, React, TypeScript, FastAPI, Python, Redis, Supabase/Postgres.
+- Backend and distributed systems: Java, Golang, Spring Boot, Netty, Kafka, MySQL optimization, Elasticsearch.
+- Data and infrastructure: AWS Redshift, AWS S3, MongoDB, Docker, GitHub Actions, CI/CD, PDF reporting.
 
-#### **DevOps & Cloud**
-- **Cloud Services:** AWS Lambda, AWS S3, AWS Redshift
-- **CI/CD:** GitHub Actions, Jenkins, Docker
-- **Messaging:** Kafka, RabbitMQ
-- **Big Data:** Hadoop HDFS, Hive, Flume, JStorm, Sqoop
+## Featured Work
 
-#### **AI & LLM Integration**
-- **AI Frameworks:** LangChain, LlamaIndex, Semantic Kernel
-- **LLM Models:** OpenAI GPT-5, Claude, Gemini, Llama 3, Mistral
-- **Vector Databases:** Pinecone, Weaviate, Qdrant, ChromaDB
-- **Agent Development:** Multi-agent systems, RAG (Retrieval-Augmented Generation), Tool calling
-- **Embedding Models:** OpenAI Embeddings, Sentence Transformers, BGE
+### Morfeus
 
-### 🎯 Professional Highlights
+AI market intelligence platform for FX and macro trading, built around a neural orchestrator and 33 AI agents.
 
-#### **AI Agent Development & LLM Integration** *(Current Focus)*
-- 🤖 Building intelligent AI agents using LangChain for automated workflow orchestration
-- 🧠 Implementing RAG systems with vector databases for enhanced context retrieval
-- 🔗 Developing multi-agent architectures for complex problem-solving scenarios
-- 📚 Integrating various LLM models (GPT-4, Claude, Llama) for optimal task performance
-- ⚙️ Creating custom tools and function calling interfaces for LLM agents
+- Aggregates agent outputs into consensus-backed views for currency pairs, macro events, and trade ideas.
+- Combines live prices, news sentiment, COT positioning, retail sentiment, currency strength, and seasonality.
+- Includes War Room risk monitoring, Data Feed research panels, Session Recaps, PDF reporting, and Trade Lab workflows.
+- Product infrastructure includes authentication, trials, Stripe subscriptions, background workers, tests, and CI/CD.
 
-#### **Cheetah Mobile (Joyme) - Fullstack Developer** *(2020-2024)*
-- 🔧 Led development of LiveMe risk control platform using Golang, Kafka, and Elasticsearch
-- ⚡ Refactored core modules from Java to Go, achieving significant performance improvements
-- 💰 Reduced server costs by 30% through optimized real-time event streaming architecture
-- 📊 Built data warehouse on AWS Redshift, processing over 10TB daily
-- 🚀 Developed high-performance data service handling 40 million daily API calls
+### Resume and portfolio sites
 
-#### **Quant Group - Java Backend Developer** *(2017-2020)*
-- 💳 Maintained credit wallet backend system supporting 100K+ DAU (peaked at 1M)
-- 🏆 Received Annual Best Employee award for technical leadership
-- 🔄 Led loan fund management redesign, streamlining third-party integrations
+- [Developer Portfolio](https://ericzhengh.github.io/magic-portfolio-site/) - portfolio site covering experience, projects, skills, and contact information.
+- [Print-Ready Resume](https://ericzhengh.github.io/reactive-resume-site/) - English resume site with print / PDF export.
+- [Portfolio repository](https://github.com/EricZhengH/magic-portfolio-site)
+- [Resume repository](https://github.com/EricZhengH/reactive-resume-site)
 
-### 🎓 Education
-- **Master of Information Technology** - Monash University
-- **Bachelor of Science in Computer Science and Technology** - Beijing Jiaotong University
+### Open source projects
 
-### 🌍 About Me
-- 📍 Based in Melbourne, Australia
-- 🎂 Born in 1998
-- 🗣️ Languages: Mandarin, English
-- 💡 Passionate about performance optimization, distributed systems, and AI-powered automation
-- 🔬 Actively exploring LLM applications and intelligent agent development
+- [Baiye-RPC](https://github.com/SheldonZheng/baiye-rpc) - Java RPC scheduling framework built on Netty and CGLIB.
+- [Baiye-Task](https://github.com/SheldonZheng/Baiye-Task) - distributed scheduled task framework with master/slave mode and dynamic JAR loading.
+- [baiye-framework](https://github.com/SheldonZheng/baiye-framework) - lightweight Spring-like Java framework with IOC and AOP support.
+- [BaiyeJVM](https://github.com/SheldonZheng/BaiyeJVM) - Go implementation of a Java Virtual Machine.
 
-### 📫 Get in Touch
-[![GitHub](https://img.shields.io/badge/GitHub-EricZhengH-181717?style=flat&logo=github)](https://github.com/EricZhengH)
+## Experience Snapshot
 
-### 🚧 Current Projects
-- 🤖 **AI Agent Framework**: Developing a modular LangChain-based framework for enterprise automation
-- 🔍 **RAG Pipeline**: Building production-ready RAG systems with hybrid search capabilities
-- 🧩 **LLM Gateway**: Creating a unified API gateway for multiple LLM providers with intelligent routing
-- 🎯 **Trading Agent Orchestrator**: Designing multi-agent systems for automated trading platform operations
+- **Morfeus Technologies Inc.** - Senior Fullstack Developer, 2025-09 to Present
+- **Cheetah Mobile (Joyme)** - Fullstack Developer (Java/Golang), 2020-08 to 2024-12
+- **Quant Group** - Java Backend Developer, 2017-02 to 2020-08
+- **Cybercloud Company Beijing** - Software Engineer, 2016-05 to 2017-02
 
----
+## Education and Languages
 
-*Building scalable solutions and intelligent agents, one line of code at a time* ✨
+- Master of Information Technology, Monash University, 2025-07 to 2026-12
+- Bachelor of Science in Computer Science and Technology, Beijing Jiaotong University, 2022-03 to 2024-06
+- English: IELTS 6.5
+- Mandarin: Native
+
+## Links
+
+- Website: [ericresume.online](http://ericresume.online/)
+- LinkedIn: [ericzheng6](https://www.linkedin.com/in/ericzheng6/)
+- GitHub: [EricZhengH](https://github.com/EricZhengH)
