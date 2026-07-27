@@ -25,8 +25,8 @@ AI market intelligence platform for FX and macro trading, built around a neural 
 
 ### Resume and portfolio sites
 
-- [Developer Portfolio](https://ericzhengh.github.io/magic-portfolio-site/) - portfolio site covering experience, projects, skills, and contact information.
-- [Print-Ready Resume](http://reactive.ericresume.online/) - English resume site with print / PDF export.
+- [Developer Portfolio](https://ericzhengh.com/) - portfolio site covering experience, projects, skills, and contact information.
+- [Print-Ready Resume](https://resume.ericzhengh.com/) - English resume site with print / PDF export.
 - [Portfolio repository](https://github.com/EricZhengH/magic-portfolio-site)
 - [Resume repository](https://github.com/EricZhengH/reactive-resume-site)
 
@@ -53,6 +53,6 @@ AI market intelligence platform for FX and macro trading, built around a neural 
 
 ## Links
 
-- Website: [ericresume.online](http://ericresume.online/)
+- Website: [ericzhengh.com](https://ericzhengh.com/)
 - LinkedIn: [ericzheng6](https://www.linkedin.com/in/ericzheng6/)
 - GitHub: [EricZhengH](https://github.com/EricZhengH)
